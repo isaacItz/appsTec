@@ -1,0 +1,29 @@
+1,Juarez,Ruiz,Maria del Carmen,Femenino,7151487321,carmen@gmail.com,17/02/2017
+5 de mayo,No. 124,Centro,Zitacuaro,Michoacan,CP. 91500
+2,Avila,Nolasco,Paulina,Femenino,7151189180,avila831@outlook.com,22/06/1999
+Plomeros,No. 23,1ra de mayo,Zitacuaro,Michoacan,CP. 61500
+3,Avila,Garcia,Miriam,Femenino,7151189876,Miriam831@outlook.com,09/10/1999
+Morelos,No. 244,La Joya,Zitacuaro,Michoacan,CP. 61500
+4,Gonzales,Hernandez,Jose Manuel,Masculino,7151202101,chepo831@outlook.com,18/03/1999
+Marzo,No. 188,Rosas,San Felipe,Michoacan,CP. 61500
+5,Garnica,Patricio,Mariana,Femenino,7151181889,mari831@outlook.com,08/11/1999
+polvorin,No. 01,El Polvorin,Zitacuaro ,Michoacan,CP. 61500
+6,Camaho,Hernandez,Omar,Masculino,7151202101,omar831@outlook.com,28/02/1999
+morelos,No. 8,La Encarnacion,Zitacuaro ,Michoacan,CP. 61500
+7,Camaho,Mondragon,Adrian,Masculino,7151255551,adrianr831@outlook.com,20/12/1999
+morelos,No. 18,La Encarnacion,Zitacuaro ,Michoacan,CP. 61500
+8,Avila,Hernandez,Celia,Femenino,7151189180,celia831@outlook.com,08/02/2000
+Plomeros,No. 66,1ra de Mayo,Zitacuaro,Michoacan,CP. 61500
+9,Nolasco,Arenazaz,Ester ,Femenino,7151199999,ester831@outlook.com,15/04/1981
+Plomeros,No. 77,1ra de Mayo,Zitacuaro,Michoacan,CP. 61500
+10,Aguilar ,Gutierrez ,Itzuri Sarahi,Femenino,7151433239,itSara 831@outlook.com,07/12/1999
+morelos,No. 0,La Joya,Zitacuaro,Michoacan,CP. 61500
+
+
+
+
+
+
+
+
+
